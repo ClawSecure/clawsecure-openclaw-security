@@ -5,7 +5,6 @@
 [![Agents Audited](https://img.shields.io/badge/Agents_Audited-2%2C890%2B-orange)](https://www.clawsecure.ai/registry)
 [![OWASP ASI](https://img.shields.io/badge/OWASP_ASI-10%2F10_Coverage-red)](https://www.clawsecure.ai/blog/owasp-asi-top-10-guide)
 
-<!-- TODO: Replace with production hero banner from Graphics Chat -->
 ![ClawSecure OpenClaw Security Scanner — 3-Layer Audit Protocol protecting AI agent skills and workflows with OWASP ASI Top 10 coverage](docs/images/clawsecure-hero-banner.png)
 
 **ClawSecure is the independent integrity layer for the OpenClaw ecosystem** — a free [OpenClaw security scanner](https://www.clawsecure.ai) and audit platform purpose-built for AI agent skills and workflows. We've audited 2,890+ skills from the community-curated [awesome-openclaw-skills](https://github.com/punkpeye/awesome-openclaw-skills) list and the [openclaw/skills](https://github.com/openclaw/skills) repository, covering all 10 OWASP ASI Top 10 security categories with our proprietary 3-Layer Audit Protocol.
@@ -50,7 +49,6 @@ Traditional malware scanners miss these threats because they lack context about 
 
 ClawSecure provides the only complete security solution covering all 10 OWASP ASI categories for OpenClaw agents. Every audit runs through our proprietary 3-Layer Audit Protocol:
 
-<!-- TODO: Replace with production architecture diagram from Graphics Chat -->
 ![ClawSecure 3-Layer Audit Protocol architecture diagram for OpenClaw security — showing Layer 1 proprietary AI agent threat intelligence, Layer 2 advanced static and behavioral analysis, and Layer 3 supply chain security scanning across the OpenClaw ecosystem](docs/images/clawsecure-3-layer-audit-architecture.png)
 
 **Layer 1 — Proprietary Threat Intelligence**
@@ -84,7 +82,6 @@ Comprehensive dependency auditing across npm, PyPI, and other package ecosystems
 
 Visit the [OpenClaw security scanner](https://www.clawsecure.ai/#scan) and paste any ClawHub skill URL or upload a skill zip file. Results are delivered in seconds as a full Security Audit Report.
 
-<!-- TODO: Replace with production scan result screenshot from Graphics Chat -->
 ![ClawSecure OpenClaw Security Audit Report example showing AI agent vulnerability scan results with security score, OWASP ASI category findings, and AI skill vulnerability checker threat detection across all 10 security categories](docs/images/clawsecure-security-audit-report-example.png)
 
 **Option 2: Use the Security Clearance API**
@@ -144,7 +141,6 @@ For the full endpoint reference, authentication details, and integration example
 
 ClawSecure provides comprehensive coverage across all 10 categories of the OWASP Agentic Security Initiative (ASI) Top 10 — the emerging security standard for AI agent systems.
 
-<!-- TODO: Replace with production OWASP ASI visual from Graphics Chat -->
 ![ClawSecure OWASP ASI Top 10 coverage grid for OpenClaw security — all 10 agentic security categories covered including agent goal hijack, tool misuse, supply chain attacks, unsafe code execution, rogue agents, data exfiltration, inter-agent communication, cascading failures, sensitive data exposure, and agent persistence](docs/images/clawsecure-owasp-asi-coverage-grid.png)
 
 | # | OWASP ASI Category | ClawSecure Coverage |

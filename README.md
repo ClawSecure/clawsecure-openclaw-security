@@ -13,6 +13,8 @@
 
 > *"Don't just scan the file; verify the soul of the agent as it evolves."*
 
+> **New from ClawSecure:** Tired of Claude Code hijacking your tabs every time it edits a file? We built **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** -- a free VS Code extension that auto-closes those unwanted diff tabs so you can stay focused. Works in VS Code, Cursor, Windsurf, Google Antigravity, Roo Code, Cline, Kilo Code, and every VS Code fork. [Install it now.](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs)
+
 ---
 
 ## Table of Contents
@@ -211,13 +213,13 @@ For security vulnerability disclosures related to ClawSecure itself, see [SECURI
 
 ## Free Developer Tools by ClawSecure
 
-Beyond the security platform, ClawSecure builds free, open-source developer tools that solve real problems in AI-assisted development. Every tool is MIT-licensed.
+ClawSecure builds the most secure AI agent developer tools on the market. Beyond the security platform, we ship free, open-source tools that fix the everyday annoyances of AI-assisted coding. Every developer tool is MIT-licensed, free forever, and built because we use these editors every day and got tired of the same problems you have.
 
-| Tool | Description | Install |
+| Tool | What It Does | Install |
 |------|-------------|---------|
-| **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** | Auto-close the diff tabs Claude Code force-opens on every file edit. Works in VS Code, Cursor, Windsurf, Google Antigravity, and all VS Code forks. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs) / [Open VSX](https://open-vsx.org/extension/ClawSecure/shutup-tabs) |
+| **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** | You know how Claude Code opens a new diff tab every single time it edits a file? And then opens the file itself in another tab? And suddenly you have 40 tabs and can't find anything? ShutUp Tabs detects those tabs and auto-closes them after a safe delay so your write operations complete first. Works in VS Code, Cursor, Windsurf, Google Antigravity, Roo Code, Cline, Kilo Code, and every VS Code fork. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs) / [Open VSX](https://open-vsx.org/extension/ClawSecure/shutup-tabs) |
 
-Explore all free tools at [github.com/ClawSecure](https://github.com/ClawSecure).
+More tools coming. Explore the collection at [github.com/ClawSecure](https://github.com/ClawSecure).
 
 ---
 

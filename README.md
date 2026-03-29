@@ -216,8 +216,9 @@ ClawSecure builds the most secure AI agent developer tools on the market. Beyond
 | Tool | What It Does | Install |
 |------|-------------|---------|
 | **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** | You know how Claude Code opens a new diff tab every single time it edits a file? And then opens the file itself in another tab? And suddenly you have 40 tabs and can't find anything? ShutUp Tabs detects those AI agent tabs and auto-closes them after a safe delay so your write operations complete first. Works in VS Code, Cursor, Windsurf, Google Antigravity, Roo Code, Cline, Kilo Code, and every VS Code fork. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs) / [Open VSX](https://open-vsx.org/extension/ClawSecure/shutup-tabs) |
+| **[Railgun](https://github.com/ClawSecure/railgun)** | Two AI agents ran up a $47,000 bill while everyone thought they were working. 88% of agent pilots never make it to production. The problem? Agents improvising the workflow. Railgun locks the sequence down in a YAML file. Each agent does its job, passes output to the next step, and nobody improvises. Cheaper (fresh context per step, no window bloat), reliable (deterministic execution order), and fixable (you can see exactly what each step received and produced). | [GitHub](https://github.com/ClawSecure/railgun) |
 
-More agent tools coming. Explore the collection at [github.com/ClawSecure](https://github.com/ClawSecure).
+Explore the full collection at [github.com/ClawSecure](https://github.com/ClawSecure).
 
 ---
 

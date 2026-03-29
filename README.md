@@ -9,11 +9,9 @@
 <!-- TODO: Replace with production hero banner from Graphics Chat -->
 ![ClawSecure OpenClaw Security Scanner — 3-Layer Audit Protocol protecting AI agent skills and workflows with OWASP ASI Top 10 coverage](docs/images/clawsecure-hero-banner.png)
 
-**ClawSecure is the independent integrity layer for the OpenClaw ecosystem** — a free [OpenClaw security scanner](https://www.clawsecure.ai) and audit platform purpose-built for AI agent skills and workflows. We've audited 2,890+ skills from the community-curated [awesome-openclaw-skills](https://github.com/punkpeye/awesome-openclaw-skills) list and the [openclaw/skills](https://github.com/openclaw/skills) repository, covering all 10 OWASP ASI Top 10 security categories with our proprietary 3-Layer Audit Protocol.
+🛡️ **ClawSecure is the independent integrity layer for the OpenClaw ecosystem** — a free [OpenClaw security scanner](https://www.clawsecure.ai) and audit platform purpose-built for AI agent skills and workflows. We've audited 2,890+ skills from the community-curated [awesome-openclaw-skills](https://github.com/punkpeye/awesome-openclaw-skills) list and the [openclaw/skills](https://github.com/openclaw/skills) repository, covering all 10 OWASP ASI Top 10 security categories with our proprietary 3-Layer Audit Protocol.
 
-> *"Don't just scan the file; verify the soul of the agent as it evolves."*
-
-> **New from ClawSecure:** Tired of Claude Code hijacking your tabs every time it edits a file? We built **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** -- a free VS Code extension that auto-closes those unwanted diff tabs so you can stay focused. Works in VS Code, Cursor, Windsurf, Google Antigravity, Roo Code, Cline, Kilo Code, and every VS Code fork. [Install it now.](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs)
+🔧 **New from ClawSecure:** Tired of Claude Code hijacking your tabs every time it edits a file? We built **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** -- a free VS Code extension that auto-closes those unwanted diff tabs so you can stay focused. Works in VS Code, Cursor, Windsurf, Google Antigravity, Roo Code, Cline, Kilo Code, and every VS Code fork. [Install it now.](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs)
 
 ---
 
@@ -211,15 +209,15 @@ For security vulnerability disclosures related to ClawSecure itself, see [SECURI
 
 ---
 
-## Free Developer Tools by ClawSecure
+## 🔧 Free Developer Tools by ClawSecure
 
-ClawSecure builds the most secure AI agent developer tools on the market. Beyond the security platform, we ship free, open-source tools that fix the everyday annoyances of AI-assisted coding. Every developer tool is MIT-licensed, free forever, and built because we use these editors every day and got tired of the same problems you have.
+ClawSecure builds the most secure AI agent developer tools on the market. Beyond the security platform, we ship free, open-source tools that fix the everyday annoyances of working with AI agents, whether you are coding, automating workflows, or building your agent operating system. Every tool is MIT-licensed, free forever, and built because we work with AI agents every day and got tired of the same problems you have.
 
 | Tool | What It Does | Install |
 |------|-------------|---------|
-| **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** | You know how Claude Code opens a new diff tab every single time it edits a file? And then opens the file itself in another tab? And suddenly you have 40 tabs and can't find anything? ShutUp Tabs detects those tabs and auto-closes them after a safe delay so your write operations complete first. Works in VS Code, Cursor, Windsurf, Google Antigravity, Roo Code, Cline, Kilo Code, and every VS Code fork. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs) / [Open VSX](https://open-vsx.org/extension/ClawSecure/shutup-tabs) |
+| **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** | You know how Claude Code opens a new diff tab every single time it edits a file? And then opens the file itself in another tab? And suddenly you have 40 tabs and can't find anything? ShutUp Tabs detects those AI agent tabs and auto-closes them after a safe delay so your write operations complete first. Works in VS Code, Cursor, Windsurf, Google Antigravity, Roo Code, Cline, Kilo Code, and every VS Code fork. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs) / [Open VSX](https://open-vsx.org/extension/ClawSecure/shutup-tabs) |
 
-More tools coming. Explore the collection at [github.com/ClawSecure](https://github.com/ClawSecure).
+More agent tools coming. Explore the collection at [github.com/ClawSecure](https://github.com/ClawSecure).
 
 ---
 

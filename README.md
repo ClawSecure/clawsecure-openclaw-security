@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/badge/Website-clawsecure.ai-brightgreen)](https://www.clawsecure.ai)
 [![Agents Audited](https://img.shields.io/badge/Agents_Audited-2%2C890%2B-orange)](https://www.clawsecure.ai/registry)
 [![OWASP ASI](https://img.shields.io/badge/OWASP_ASI-10%2F10_Coverage-red)](https://www.clawsecure.ai/blog/owasp-asi-top-10-guide)
+[![Free Tools](https://img.shields.io/badge/Free_Tools-ShutUp_Tabs-blueviolet)](https://github.com/ClawSecure/shutup-tabs)
 
 <!-- TODO: Replace with production hero banner from Graphics Chat -->
 ![ClawSecure OpenClaw Security Scanner — 3-Layer Audit Protocol protecting AI agent skills and workflows with OWASP ASI Top 10 coverage](docs/images/clawsecure-hero-banner.png)
@@ -24,6 +25,7 @@
 - [Why ClawSecure for OpenClaw Security](#why-clawsecure-for-openclaw-security)
 - [OpenClaw Security Research and Reports](#openclaw-security-research-and-reports)
 - [Contributing to OpenClaw Security](#contributing-to-openclaw-security)
+- [Free Developer Tools by ClawSecure](#free-developer-tools-by-clawsecure)
 - [About ClawSecure](#about-clawsecure)
 
 ---
@@ -204,6 +206,18 @@ We welcome contributions from the OpenClaw community. See [CONTRIBUTING.md](CONT
 - **Reporting suspicious skills** through our [issue templates](.github/ISSUE_TEMPLATE/)
 
 For security vulnerability disclosures related to ClawSecure itself, see [SECURITY.md](SECURITY.md).
+
+---
+
+## Free Developer Tools by ClawSecure
+
+Beyond the security platform, ClawSecure builds free, open-source developer tools that solve real problems in AI-assisted development. Every tool is MIT-licensed.
+
+| Tool | Description | Install |
+|------|-------------|---------|
+| **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** | Auto-close the diff tabs Claude Code force-opens on every file edit. Works in VS Code, Cursor, Windsurf, Google Antigravity, and all VS Code forks. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs) / [Open VSX](https://open-vsx.org/extension/ClawSecure/shutup-tabs) |
+
+Explore all free tools at [github.com/ClawSecure](https://github.com/ClawSecure).
 
 ---
 

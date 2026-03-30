@@ -11,7 +11,7 @@
 
 🛡️ **ClawSecure is the independent integrity layer for the OpenClaw ecosystem** — a free [OpenClaw security scanner](https://www.clawsecure.ai) and audit platform purpose-built for AI agent skills and workflows. We've audited 2,890+ skills from the community-curated [awesome-openclaw-skills](https://github.com/punkpeye/awesome-openclaw-skills) list and the [openclaw/skills](https://github.com/openclaw/skills) repository, covering all 10 OWASP ASI Top 10 security categories with our proprietary 3-Layer Audit Protocol.
 
-🔧 **New from ClawSecure:** Tired of Claude Code hijacking your tabs every time it edits a file? We built **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** -- a free VS Code extension that auto-closes those unwanted diff tabs so you can stay focused. Works in VS Code, Cursor, Windsurf, Google Antigravity, Roo Code, Cline, Kilo Code, and every VS Code fork. [Install it now.](https://marketplace.visualstudio.com/items?itemName=ClawSecure.shutup-tabs)
+🔧 **Free OpenClaw Developer Tools by ClawSecure:** We also ship free, open-source tools for the OpenClaw ecosystem. **[Railgun](https://github.com/ClawSecure/railgun)** -- deterministic agent orchestration that won't run up a $47K bill. YAML pipelines with runtime limits, concurrency caps, and per-step observability. **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** -- auto-closes the diff tabs Claude Code force-opens on every file edit. Works in VS Code, Cursor, Windsurf, Antigravity, and all VS Code forks. New tools ship weekly. [See all free tools.](https://github.com/ClawSecure/openclaw-developer-tools)
 
 ---
 

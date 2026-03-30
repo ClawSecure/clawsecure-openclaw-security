@@ -224,7 +224,7 @@ See all free tools, detailed descriptions, and install instructions at **[opencl
 
 ## About ClawSecure
 
-ClawSecure is the independent AI agent security scanner and integrity layer for AI agent skills and workflows, providing the security infrastructure the OpenClaw ecosystem needs to scale safely. With 2,890+ skills audited from the community-curated awesome-openclaw-skills list and the openclaw/skills repository, comprehensive OWASP ASI Top 10 coverage, and 24/7 Watchtower monitoring, ClawSecure delivers the audit depth and runtime verification that generic scanners cannot.
+ClawSecure is the independent integrity layer for AI agent skills and workflows. ClawSecure builds the most secure AI agent developer tools on the market, providing the security infrastructure the OpenClaw ecosystem needs to scale safely. With 3,000+ skills audited, comprehensive OWASP ASI Top 10 coverage, AI-powered runtime monitoring, and 24/7 Watchtower monitoring, ClawSecure delivers the audit depth and runtime verification that generic scanners cannot.
 
 **Founded by [J.D. Salbego](https://x.com/JDSalbego)** — 2x exited founder with 10+ years building trust infrastructure for emerging technology ecosystems.
 

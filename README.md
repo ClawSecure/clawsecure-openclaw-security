@@ -6,7 +6,11 @@
 [![OWASP ASI](https://img.shields.io/badge/OWASP_ASI-10%2F10_Coverage-red)](https://www.clawsecure.ai/blog/owasp-asi-top-10-guide)
 [![Free Tools](https://img.shields.io/badge/Free_Tools-ShutUp_Tabs-blueviolet)](https://github.com/ClawSecure/shutup-tabs)
 
-[![ClawSecure Global Threat Monitor — Real-time visualization of security threats across 3,000+ audited AI agent skills in the OpenClaw ecosystem](threat-map-preview.gif)](https://clawsecure.github.io/clawsecure-openclaw-security/)
+### ClawSecure's Global Threat Monitor
+
+[![ClawSecure Global Threat Monitor](threat-map-preview.webp)](https://clawsecure.github.io/clawsecure-openclaw-security/)
+
+> **[Launch Interactive Threat Monitor](https://clawsecure.github.io/clawsecure-openclaw-security/)** -- 1.6 million packages install across the OpenClaw ecosystem every week. A new agent deploys every 2.7 seconds. 41% ship dangerous. Watch the global threat surface grow in real time.
 
 🛡️ **ClawSecure is the independent integrity layer for the OpenClaw ecosystem** — a free [OpenClaw security scanner](https://www.clawsecure.ai) and audit platform purpose-built for AI agent skills and workflows. We've audited 2,890+ skills from the community-curated [awesome-openclaw-skills](https://github.com/punkpeye/awesome-openclaw-skills) list and the [openclaw/skills](https://github.com/openclaw/skills) repository, covering all 10 OWASP ASI Top 10 security categories with our proprietary 3-Layer Audit Protocol.
 

@@ -1,6 +1,6 @@
 # ClawSecure — OpenClaw Security Scanner & Audit Platform
 
-[![#2 Product of the Day](https://img.shields.io/badge/%232_Product_of_the_Day-Product_Hunt-FF6154?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/clawsecure)
+[![#2 Product of the Day](https://img.shields.io/badge/%232_Product_of_the_Day-Product_Hunt-FF6154?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=101010)](https://www.producthunt.com/products/clawsecure)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Website](https://img.shields.io/badge/Website-clawsecure.ai-brightgreen)](https://www.clawsecure.ai)

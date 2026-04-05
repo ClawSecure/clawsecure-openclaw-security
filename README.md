@@ -37,7 +37,7 @@
 
 ## The OpenClaw Security Problem
 
-OpenClaw is one of the fastest-growing open-source AI agent frameworks, with 332,000+ GitHub stars, 1.65M npm downloads per week, and 300-500K active users. That growth has made it a high-value target. ClawSecure's audit of the most popular skills found that **41% contain at least one security vulnerability** -- ranging from credential harvesting to unauthorized network calls.
+OpenClaw is the fastest-growing open-source software in history and the leading AI agent framework, with 332,000+ GitHub stars, 1.65M npm downloads per week, and 300-500K active users. That growth has made it a high-value target. ClawSecure's audit of the most popular skills found that **41% contain at least one security vulnerability** -- ranging from credential harvesting to unauthorized network calls.
 
 The threats facing OpenClaw users go beyond traditional malware. Palo Alto Networks (2026) identified the **Lethal Trifecta** — the convergence of private data access, untrusted content exposure, and external communication capabilities — as the defining risk pattern for AI agents. OpenClaw exhibits all three by design.
 

@@ -11,6 +11,9 @@ assignees: ''
 - **Skill Name:**
 - **Skill URL (ClawHub or GitHub):**
 - **Skill Author/Publisher:**
+- **npm Package (if any):**
+- **ClawHub Listing (if any):**
+- **Install Command (if any):**
 
 ## What Did You Observe?
 

@@ -14,7 +14,7 @@
 
 > **[Launch Interactive Threat Monitor](https://clawsecure.github.io/clawsecure-openclaw-security/)** -- 1.6 million packages install across the OpenClaw ecosystem every week. A new agent deploys every 2.7 seconds. 41% ship dangerous. Watch the global threat surface grow in real time.
 
-🛡️ **ClawSecure is the independent integrity layer for the OpenClaw ecosystem** — a free [OpenClaw security scanner](https://www.clawsecure.ai) and audit platform purpose-built for AI agent skills and workflows. We've audited 3,000+ skills from the community-curated [awesome-openclaw-skills](https://github.com/punkpeye/awesome-openclaw-skills) list and the [openclaw/skills](https://github.com/openclaw/skills) repository, covering all 10 OWASP ASI Top 10 security categories with our proprietary 3-Layer Audit Protocol.
+🛡️ **ClawSecure is the independent integrity layer for the OpenClaw ecosystem** - a free [OpenClaw security scanner](https://www.clawsecure.ai) and audit platform purpose-built for AI agent skills and workflows. We've audited 3,000+ skills from the community-curated [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) list and other public OpenClaw skill repositories, covering all 10 OWASP ASI Top 10 security categories with our proprietary 3-Layer Audit Protocol.
 
 🔧 **Free OpenClaw Developer Tools by ClawSecure:** We also ship free, open-source tools for the OpenClaw ecosystem. **[Railgun](https://github.com/ClawSecure/railgun)** -- deterministic agent orchestration that won't run up a $47K bill. YAML pipelines with runtime limits, concurrency caps, and per-step observability. **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** -- auto-closes the diff tabs Claude Code force-opens on every file edit. Works in VS Code, Cursor, Windsurf, Antigravity, and all VS Code forks. New tools ship weekly. [See all free tools.](https://github.com/ClawSecure/openclaw-developer-tools)
 
@@ -89,7 +89,7 @@ Comprehensive dependency auditing across npm, PyPI, and other package ecosystems
 | **Supply Chain Vulnerability Scanning** | Full npm and PyPI dependency tree scanning against CVE databases — every package checked for known vulnerabilities, unpinned versions flagged, poisoned dependencies detected across the OpenClaw ecosystem |
 | **SHA-256 Tamper Detection** | Cryptographic content hashing across all tracked skills — enables hash-match verification through the Security Clearance API and powers Watchtower integrity monitoring for OpenClaw security |
 | **Shareable Security Audit Reports** | Public report pages for every scanned skill with unique URLs — share OpenClaw security audit results with teams, embed in documentation, or link from skill READMEs for transparency |
-| **3,000+ Curated Audit Database** | Skills audited from the community-curated awesome-openclaw-skills list and the openclaw/skills repository — the largest public security analysis of the OpenClaw ecosystem |
+| **3,000+ Curated Audit Database** | Skills audited from the community-curated awesome-openclaw-skills list and other public OpenClaw skill repositories - the largest public security analysis of the OpenClaw ecosystem |
 
 ---
 
@@ -109,6 +109,19 @@ For programmatic OpenClaw security automation, integrate the [Security Clearance
 **Option 3: Browse the Registry**
 
 Explore [3,000+ audited OpenClaw agents](https://www.clawsecure.ai/registry) in the Verified Agent Registry. Filter by category, security score, or verification status to find trusted skills for your workflows.
+
+**Example high-capability scan target**
+
+To verify URL intake and permission-context classification, scan an OpenClaw plugin that combines external communication, private account access, write actions, and npm distribution metadata. [TweetClaw](https://github.com/Xquik-dev/tweetclaw) is a useful fixture because the same plugin is published through GitHub, npm, and ClawHub:
+
+| Surface | Reference |
+|---|---|
+| GitHub repo | https://github.com/Xquik-dev/tweetclaw |
+| npm package | https://www.npmjs.com/package/@xquik/tweetclaw |
+| ClawHub listing | https://clawhub.ai/plugins/@xquik/tweetclaw |
+| OpenClaw install | `openclaw plugins install @xquik/tweetclaw` |
+
+Review focus: X/Twitter automation, tweet scraper workflows, search tweets, search tweet replies, post tweets, post tweet replies, follower export, user lookup, media upload and download, direct messages, monitor tweets, webhooks, giveaway draws, and OpenClaw approval boundaries. Scan results should be reviewed before granting account-backed credentials or write-capable tools.
 
 ---
 

@@ -23,6 +23,15 @@ Any publicly available OpenClaw skill can be scanned for free:
 
 Results are delivered in seconds as a full Security Audit Report covering all 10 OWASP ASI categories.
 
+For npm-backed OpenClaw plugins, include every public distribution surface so investigators can compare source, package metadata, and marketplace records. Example complete metadata:
+
+| Field | Example |
+|---|---|
+| GitHub repo | https://github.com/Xquik-dev/tweetclaw |
+| npm package | https://www.npmjs.com/package/@xquik/tweetclaw |
+| ClawHub listing | https://clawhub.ai/plugins/@xquik/tweetclaw |
+| Install command | `openclaw plugins install @xquik/tweetclaw` |
+
 ### Request a Feature
 
 Have an idea for improving ClawSecure? Open a [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md) issue. We're especially interested in:

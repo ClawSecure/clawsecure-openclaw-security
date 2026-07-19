@@ -11,6 +11,11 @@ assignees: ''
 - **Skill Name:**
 - **Skill URL (ClawHub or GitHub):**
 - **Skill Author/Publisher:**
+- **Source Repository (if different):**
+- **Package and Exact Version (if any):**
+- **Package Integrity or Shasum (if available):**
+- **Marketplace Listing (if any):**
+- **Install Command (if any):**
 
 ## What Did You Observe?
 

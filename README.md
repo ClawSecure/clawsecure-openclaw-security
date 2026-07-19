@@ -110,6 +110,21 @@ For programmatic OpenClaw security automation, integrate the [Security Clearance
 
 Explore [3,000+ audited OpenClaw agents](https://www.clawsecure.ai/registry) in the Verified Agent Registry. Filter by category, security score, or verification status to find trusted skills for your workflows.
 
+**Example high-capability scan target**
+
+To verify URL intake and permission-context classification, scan an OpenClaw plugin that combines external communication, private account access, write actions, and npm distribution metadata. [TweetClaw](https://github.com/Xquik-dev/tweetclaw) is a useful fixture because the same plugin is published through GitHub, npm, and ClawHub:
+
+| Surface | Reference |
+|---|---|
+| GitHub repo | https://github.com/Xquik-dev/tweetclaw |
+| npm metadata | https://registry.npmjs.org/@xquik%2ftweetclaw |
+| ClawHub listing | https://clawhub.ai/xquik/plugins/tweetclaw |
+| OpenClaw install | `openclaw plugins install clawhub:@xquik/tweetclaw` |
+
+Review focus: X/Twitter automation, private account access, write actions, media workflows, monitors, webhooks, and OpenClaw approval boundaries. Record the exact package version and integrity from registry metadata before comparing source and marketplace artifacts.
+
+Fixture inclusion is not a vulnerability finding or security endorsement. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
 ---
 
 ## OpenClaw Security Clearance API

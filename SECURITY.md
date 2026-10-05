@@ -17,7 +17,7 @@ Email your findings to **security@clawsecure.ai** with:
 
 ### What to Expect
 
-- **Acknowledgment** within 48 hours of your report
+- **Acknowledgment** within 3 business days of your report
 - **Status update** within 7 days with our assessment
 - **Credit** in our security acknowledgments (if desired) once the issue is resolved
 

@@ -114,44 +114,7 @@ Explore [3,000+ audited OpenClaw agents](https://www.clawsecure.ai/registry) in 
 
 ## OpenClaw Security Clearance API
 
-The OpenClaw Security Clearance API provides real-time programmatic integrity verification for developers and platforms building on the OpenClaw ecosystem.
-
-### Example Request
-
-```bash
-curl -X POST https://www.clawsecure.ai/api/v1/clearance \
-  -H "Content-Type: application/json" \
-  -d '{
-    "agent_id": "github-user/skill-name",
-    "current_skill_hash": "sha256:abc123..."
-  }'
-```
-
-### Example Response
-
-```json
-{
-  "status": "SECURE",
-  "score": 92,
-  "agent_id": "github-user/skill-name",
-  "last_audit": "2026-02-25T14:30:00Z",
-  "report_url": "https://www.clawsecure.ai/report/abc123",
-  "hash_match": true,
-  "categories_covered": 10
-}
-```
-
-### Status Codes
-
-| Status | Meaning |
-|---|---|
-| `SECURE` | Agent passed audit and hash matches verified version |
-| `UNVERIFIED` | Agent not yet audited or hash not recognized |
-| `DENIED` | Agent failed critical security checks |
-
-**Rate limit:** 100 requests/minute. Currently free and open — no API key required.
-
-For the full endpoint reference, authentication details, and integration examples, see [docs/API.md](docs/API.md).
+ClawSecure offers a free Security Clearance API that returns the security verdict for a named skill. Its current contract (request fields, statuses, errors and rate limits) is published by the API itself: `curl -H 'User-Agent: your-app-name/1.0' https://www.clawsecure.ai/api/v1/clearance` (send a User-Agent that names your application). See [docs/API.md](docs/API.md).
 
 ---
 
